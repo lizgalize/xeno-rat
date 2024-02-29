@@ -117,4 +117,4 @@ To get started with Xeno-RAT, follow these simple steps:
 
 ## Donation
 ### Buy me a coffee!
-BTC: bc1qg4zy8w5swc66k9xg29c2x6ennn5cyv2ytlp0a6
+BTC: bc1qg4zy85swc66k9xg29c2x6ennn5cyv2ytlp0a6
